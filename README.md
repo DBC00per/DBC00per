@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DBC00per
+- 👀 I’m interested in Data analysis & web design
+- 🌱 I’m currently learning computer science...
+- 💞️ I’m looking to learn new stuff
